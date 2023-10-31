@@ -162,7 +162,7 @@ doc.write(`
     <p id='error'></p>
     <button  id='reload'>Reload extension (Useless)</button>
     <br>
-    <p><i>Expoit made by SprinkzMC#8421, Launcher made by NitrogenDioxide#2553</i></p>
+    <p><i>Expoit made by caiden clay / cc</i></p>
   </div></body>
 </html>
 `);
