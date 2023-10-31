@@ -155,7 +155,6 @@ doc.write(`
     <button id='hardkill'>Soft kill extension</button><br>
     <button id='hardkillrev'>Revert Hard Kill</button>
     
-    <p>To enable from soft kill, go to chrome-extension://{id here}/_generated_background_page.html</p>
     <h2>――― Change tab URL (about:blank) ―――</h2>
     <input id='url'>
     <button  id='change'>Change tabs (Useless)</button>
