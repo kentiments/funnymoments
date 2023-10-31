@@ -137,7 +137,7 @@ doc.write(`
   </style>
   
   <body><div id="container">
-    <center><h1>Point Blank Swap Launcher</h1></center>
+    <center><h1>Caiden Clay Launcher</h1></center>
 
     <h2>―――――― Extension Killer ――――――</h2>
     <p><span id='eee'>Extension links</span>▼</p>
