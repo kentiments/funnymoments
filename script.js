@@ -43,7 +43,7 @@
         <h1>Website Deleted</h1>
     </header>
 
-    <p>This Website Has Been Deleted, For The New Website Ask Caiden Clay.</p>
+    <p>This Website Has Been Deleted.</p>
 
     <div>
         
